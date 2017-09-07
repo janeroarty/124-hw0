@@ -20,7 +20,7 @@ public class Area {
      * @return The area
      */
     public static double getCircleArea(double radius) {
-        // TODO: replace me with the correct formula
+        // TODO: replace me with the correct formul
         return Math.PI*(radius*radius);
     }
 
